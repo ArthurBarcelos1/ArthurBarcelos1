@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Arthur Amaral (NiXxihn) 👋</h1>
 
 <h3 align="center">
-💻 Estudante de Front-end • 🎮 Desenvolvedor de Jogos Roblox • <img src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/512px/1f1e7-1f1f7.png" /> Brasil
+💻 Estudante de Front-end • 🎮 Desenvolvedor de Jogos Roblox • <img src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/512px/1f1e7-1f1f7.png" style="max-width:20px; max-height:20px;"/> Brasil
 </h3>
 
 ---
