@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Arthur Amaral (NiXxihn) 👋</h1>
 
 <h3 align="center">
-💻 Estudante de Front-end • 🎮 Desenvolvedor de Jogos Roblox • <img scr="https://flagpedia.net/data/flags/emoji/twitter/256x256/br.png"> Brasil
+💻 Estudante de Front-end • 🎮 Desenvolvedor de Jogos Roblox • Brasil
 </h3>
 
 ---
