@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArthurBarcelos1&label=Visitantes&color=00ff99&style=for-the-badge" alt="Contador de visitantes"/>
+  <img src="https://komarev.com/ghpvc/?username=ArthurBarcelos1&label=Visitantes&color=#0059FF&style=for-the-badge" alt="Contador de visitantes"/>
 </p>
 
 ---
@@ -51,28 +51,6 @@
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBarcelos1&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBarcelos1&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Troféus
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArthurBarcelos1&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 📈 Sequência de Contribuições
 
 <p align="center">
@@ -103,18 +81,3 @@
 
 </p>
 
----
-
-# 🐍 Contribuições
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ArthurBarcelos1/ArthurBarcelos1/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-<p align="center">
-
-> "Transformando ideias em código e criando experiências interativas."
-
-</p>
