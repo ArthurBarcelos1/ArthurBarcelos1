@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Arthur Amaral (NiXxihn) 👋</h1>
+<h1 align="center">Olá! Eu sou Arthur BBarcelos Amaral (NiXxihn) 👋</h1>
 
 <h3 align="center">
 UX Designer • Desenvolvedor Front-end • Desenvolvedor Roblox
