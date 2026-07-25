@@ -42,9 +42,9 @@ Também possuo interesse em modelagem 3D e criação de ativos digitais utilizan
 
 ### 🛠 Ferramentas
 
-<p>
+<p> 
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</p> 
 
 ---
 
