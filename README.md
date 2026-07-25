@@ -16,7 +16,7 @@ Sou estudante do Ensino Médio e apaixonado por tecnologia, design e desenvolvim
 
 Atualmente, estou aprofundando meus conhecimentos em HTML, CSS e Figma, sempre procurando evoluir minhas habilidades e acompanhar as melhores práticas da área.
 
-Também possuo interesse em modelagem 3D e criação de ativos digitais utilizando Blender, explorando conceitos de design, composição e visualização tridimensional.
+Também possuo interesse em modelagem 3D e criação de ativos digitais utilizando Blender, explorando conceitos de design, composição e visualização tridimensional. 
 
 ---
 
