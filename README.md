@@ -16,7 +16,7 @@ Sou estudante do Ensino Médio e apaixonado por tecnologia, design e desenvolvim
 
 Atualmente, estou aprofundando meus conhecimentos em HTML, CSS e Figma, sempre procurando evoluir minhas habilidades e acompanhar as melhores práticas da área.
 
-Também possuo interesse em modelagem 3D e criação de ativos digitais utilizando Blender, explorando conceitos de design, composição e visualização tridimensional. 
+Também possuo interesse em modelagem 3D, edição de vídeos e criação de ativos digitais utilizando Blender e Adobe After Effects, além de trabalhar com gerenciamento e otimização de mídias utilizando Cloudinary.
 
 ---
 
@@ -25,7 +25,7 @@ Também possuo interesse em modelagem 3D e criação de ativos digitais utilizan
 ### 🎨 Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ai,blender" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,blender,ae" />
 </p>
 
 ### 🌐 Front-end
@@ -37,7 +37,7 @@ Também possuo interesse em modelagem 3D e criação de ativos digitais utilizan
 ### ☁️ Backend & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=firebase,cloudinary" />
 </p>
 
 ### 🛠 Ferramentas
