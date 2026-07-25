@@ -1,48 +1,63 @@
-<h1 align="center">Olá, eu sou Arthur Amaral (NiXxihn) 👋</h1>
+<h1 align="center">Olá! Eu sou Arthur Amaral (NiXxihn) 👋</h1>
 
 <h3 align="center">
-💻 Estudante de Front-end • 🎮 Desenvolvedor de Jogos Roblox • Brasil
+UX Designer • Desenvolvedor Front-end • Desenvolvedor Roblox
 </h3>
 
----
-
-# 👨‍💻 Sobre mim
-
-- 🎓 Estudante do Ensino Médio
-- 💻 Estudando desenvolvimento Front-end e UX
-- 🎮 Desenvolvedor de experiências no Roblox
-- 🌎 Inglês fluente
-- 🇧🇷 Português nativo
-- 🇪🇸 Compreendo espanhol
-- 🇩🇪 Aprendendo alemão
-- 🚀 Sempre buscando aprender novas tecnologias
+<p align="center">
+Transformando ideias em interfaces intuitivas, experiências digitais e projetos interativos.
+</p>
 
 ---
 
-# 🚀 Tecnologias
+## 👨‍💻 Sobre mim
+
+Sou estudante do Ensino Médio e apaixonado por tecnologia, design e desenvolvimento. Tenho foco em UX Design e Desenvolvimento Front-end, buscando criar interfaces modernas, intuitivas e centradas no usuário.
+
+Atualmente, estou aprofundando meus conhecimentos em HTML, CSS, Figma e iniciando meus estudos em JavaScript e React, sempre procurando evoluir minhas habilidades e acompanhar as melhores práticas da área.
+
+Também possuo interesse em modelagem 3D e criação de ativos digitais utilizando Blender, explorando conceitos de design, composição e visualização tridimensional.
+
+---
+
+## 🚀 Tecnologias
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,blender" />
+</p>
 
 ### 🌐 Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ☁️ Backend & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### 🛠 Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 
 ---
 
-# 🌐 Contato
+## 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Fluente
+- 🇪🇸 Espanhol — Compreensão intermediária
+- 🇩🇪 Alemão — Em aprendizado
+
+---
+
+## 📫 Contato
 
 <p align="center">
 
@@ -61,4 +76,3 @@
 <img src="https://img.shields.io/badge/Discord-arthur__barcelos1-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 </p>
-
