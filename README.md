@@ -9,7 +9,7 @@
 # 👨‍💻 Sobre mim
 
 - 🎓 Estudante do Ensino Médio
-- 💻 Estudando desenvolvimento Front-end
+- 💻 Estudando desenvolvimento Front-end e UX
 - 🎮 Desenvolvedor de experiências no Roblox
 - 🌎 Inglês fluente
 - 🇧🇷 Português nativo
@@ -24,7 +24,7 @@
 ### 🌐 Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" align="center" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### ☁️ Backend & Cloud
