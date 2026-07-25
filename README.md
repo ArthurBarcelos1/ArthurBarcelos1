@@ -27,12 +27,6 @@
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🎮 Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=lua" />
-</p>
-
 ### ☁️ Backend & Cloud
 
 <p>
@@ -45,21 +39,12 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
-
-# 📈 Sequência de Contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ArthurBarcelos1&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
 
 ---
 
 # 🌐 Contato
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/ArthurBarcelos1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
