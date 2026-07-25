@@ -8,7 +8,7 @@ UX Designer • Desenvolvedor Front-end • Desenvolvedor Roblox
 Transformando ideias em interfaces intuitivas, experiências digitais e projetos interativos.
 </p>
 
----
+--- 
 
 ## 👨‍💻 Sobre mim
 
