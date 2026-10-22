@@ -25,7 +25,7 @@ Também possuo interesse em modelagem 3D, edição de vídeos e criação de ati
 ### 🎨 Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ai,blender,ae" />
+  <img src="https://skillicons.dev/icons?i=ae,ai,blender,figma" />
 </p>
 
 ### 🌐 Front-end
