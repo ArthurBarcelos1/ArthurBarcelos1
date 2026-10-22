@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Arthur Barcelos Amaral (NiXxihn) 👋</h1>
 
 <h3 align="center">
-UX Designer • Desenvolvedor Front-end • Desenvolvedor Roblox
+UX Designer • Desenvolvedor Front-end
 </h3>
 
 <p align="center">
